@@ -16,7 +16,7 @@
 **Languages et outils:**
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
-<code><img height="20" src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png"></code>
+<code><img height="20" src="https://img2.freepng.fr/20180701/puh/kisspng-vue-js-javascript-library-react-angularjs-js-5b395da4146f70.8054310515304861800837.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
