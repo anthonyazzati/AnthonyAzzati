@@ -13,7 +13,7 @@
 
 - 💻 Je suis toujours à l'écoute de nouvelles opportunités
 
-**Languages et outils:**
+**Langages et outils:**
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <code><img height="20" src="https://img1.freepng.fr/20180407/gse/kisspng-vue-js-javascript-framework-front-and-back-ends-gi-technical-5ac9109e6cb7f5.5357905715231264304453.jpg"></code>
