@@ -17,10 +17,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <a href="https://github.com/AnthonyAzzati/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyAzzati&show_icons=true&include_all_commits=true&theme=material-palenight" alt="" />
+</a>
+<a href="https://github.com/AnthonyAzzati/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAzzati&layout=compact&theme=material-palenight" />
 </a>
-
-<p align="center"><img src="https://github-readme-stats-1-delta.vercel.app/api?username=AnthonyAzzati&show_icons=true" alt="Anthony Azzati profil" /></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/anthonyazzati/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="30" /></a>
-</p>
+<a href="https://github.com/AnthonyAzzati/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyAzzati&repo=github-readme-stats&theme=material-palenight" />
+</a>
