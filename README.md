@@ -16,7 +16,14 @@
 **Languages and Tools:**
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+<code><img height="20" src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://expressjs.com/images/express-facebook-share.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"></code>
 
 <a href="https://github.com/AnthonyAzzati/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyAzzati&show_icons=true&include_all_commits=true&theme=material-palenight" alt="" />
