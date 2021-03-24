@@ -15,5 +15,3 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/anthonyazzati/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="30" /></a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnthonyAzzati&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
