@@ -7,7 +7,9 @@
 
 - 👯 Je cherche à collaborer sur des projets VueJS
 
-- 📫 Comment me contacter **anthonyazzati.dev@gmail.com**
+- 📫 Comment me contacter <a href="https://www.linkedin.com/in/anthonyazzati/">
+  <img align="left" alt="LinkedIn Anthony Azzati" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616584411~hmac=1115bb1ef26c7696ceb7aa3f184ba6f6" />
+  </a>
 
 - 💻 Je suis toujours à l'écoute de nouvelles opportunités
 
