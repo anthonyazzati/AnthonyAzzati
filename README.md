@@ -13,7 +13,7 @@
 
 - 💻 Je suis toujours à l'écoute de nouvelles opportunités
 
-**Languages and Tools:**
+**Languages et outils:**
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <code><img height="20" src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png"></code>
@@ -24,6 +24,8 @@
 <code><img height="20" src="https://expressjs.com/images/express-facebook-share.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"></code>
+
+_NOTE: Les Top langages n'indiquent pas mon niveau de maîtrise du langage, il s'agit d'une indication de quels langages j'utilise le plus dans mes différents projets Github_
 
 <a href="https://github.com/AnthonyAzzati/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyAzzati&show_icons=true&include_all_commits=true&theme=material-palenight" alt="" />
