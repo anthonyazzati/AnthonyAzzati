@@ -7,7 +7,7 @@
 
 - 👯 Je cherche à collaborer sur des projets **Javascript | VueJS**
 
-- 👨‍💻 Tout mes projets sont disponibles sur [www.anthonyazzati.fr](www.anthonyazzati.fr)
+- 👨‍💻 Tout mes projets sont disponibles sur [www.anthonyazzati.fr](https://www.anthonyazzati.fr)
 
 - 📫 Pour entrer en contact **hello@anthonyazzati.fr**
 
