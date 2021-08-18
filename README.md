@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je m'appelle Anthony Azzati</h1>
-<h3 align="center">Je suis développeur Frontend Javascript | VueJS</h3>
+<h3 align="center">Je suis développeur Web Javascript | VueJS</h3>
 
 - 🔭 Je suis actuellement à la recherche d'un poste de **développeur Javascript | VueJS**
 
