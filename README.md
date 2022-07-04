@@ -3,7 +3,7 @@
 
 - 🔭 Je suis actuellement à la recherche d'un poste de **développeur Javascript | VueJS**
 
-- 🌱 Je suis en apprentissage sur **Nuxt**
+- 🌱 Je suis en apprentissage sur **React**
 
 - 👯 Je cherche à collaborer sur des projets **Javascript | VueJS**
 
