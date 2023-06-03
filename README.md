@@ -1,9 +1,7 @@
 <h1 align="center">Bonjour 👋, je m'appelle Anthony Azzati</h1>
 <h3 align="center">Je suis développeur Web Javascript | VueJS</h3>
 
-- 🔭 Je suis actuellement à la recherche d'un poste de **développeur Javascript | VueJS**
-
-- 🌱 Je suis en apprentissage sur **React**
+- 🔭 Je suis actuellement à la recherche d'un poste de **développeur VueJS**
 
 - 👯 Je cherche à collaborer sur des projets **Javascript | VueJS**
 
