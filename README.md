@@ -1,13 +1,9 @@
 <h1 align="center">Bonjour 👋, je m'appelle Anthony Azzati</h1>
 <h3 align="center">Je suis développeur Web Javascript | VueJS</h3>
 
-- 🔭 Je suis actuellement à la recherche d'un poste de **développeur VueJS**
+- 🔭 Je suis ne suis pas actuellement à la recherche d'un poste
 
 - 👯 Je cherche à collaborer sur des projets **Javascript | VueJS**
-
-- 👨‍💻 Tout mes projets sont disponibles sur [www.anthonyazzati.fr](https://www.anthonyazzati.fr)
-
-- 📫 Pour entrer en contact **hello@anthonyazzati.fr**
 
 - ⚡ Fun fact **Je suis passionné par le numérique et les jeux vidéos de type FPS/MMORPG**
 
